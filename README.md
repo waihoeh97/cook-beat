@@ -6,7 +6,7 @@ Consists of a team of Programmers, Artists, and Designers
 
 Made using Unity ver. 2017.x, last updated 2018.x
 
-##Credits
+## Credits
 Programmers : (Lead) Lum Wai Hoeh, Yit Fei, Eason
 
 Artists : (Lead) Fishy, Nadrah
